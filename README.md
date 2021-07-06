@@ -1,0 +1,2 @@
+# wsRicezioneFattureBase64
+wsRicezioneFattureBase64
